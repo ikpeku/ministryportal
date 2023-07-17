@@ -1,5 +1,4 @@
-import React from 'react';
-import Caro from './admin/Caro';
+import Caromain from "./admin/Caro";
 
 
 const CarouselCard = () => {
@@ -17,7 +16,7 @@ const CarouselCard = () => {
       <img src="https://pluspng.com/img-png/png-user-icon-icons-logos-emojis-users-2400.png"  className='w-full h-full '  />
       <img src="https://pluspng.com/img-png/png-user-icon-icons-logos-emojis-users-2400.png"  className='w-full h-full '  />
     </Carousel> */}
-                <Caro />
+                <Caromain />
                 </div>
                 {/* slider end */}
 
