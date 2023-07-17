@@ -1,4 +1,6 @@
-import Caromain from "./admin/Caro";
+// import Caromain from "./admin/Caro";
+
+import Caromain from "./Caro";
 
 
 const CarouselCard = () => {

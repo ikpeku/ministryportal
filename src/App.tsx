@@ -1,5 +1,5 @@
 import { Route, createRoutesFromElements } from "react-router-dom";
-import Admin from "./components/admin/admin";
+import Admin from "./components/admin";
 import Login from "./pages/Login";
 import Register from "./pages/Register";
 import Mainpage from "./pages/Mainpage";
